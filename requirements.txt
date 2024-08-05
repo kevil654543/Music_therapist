@@ -1,0 +1,7 @@
+streamlit
+numpy
+tensorflow
+google-api-python-client
+h5py
+pillow
+protobuf
